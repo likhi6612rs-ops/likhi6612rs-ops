@@ -6,7 +6,7 @@
 
 - 📍 Location: Hyderabad, Telangana
 - 🎓 Education: Student
-- 📅 Coding Since: 2022–2023
+- 📅 Coding Since: 2022-2023
 - ⚡ Hacking Since: 2026
 
 ## Featured Projects
@@ -19,6 +19,3 @@
 - 🧰 Languages: Python, English, Hindi, Telugu
 - 🔭 Focus: Tech growth, founder mindset, innovation, and hackathon building
 - ❤️ Interests: Creating new projects, learning fast, and turning ideas into useful solutions
-
-
----
